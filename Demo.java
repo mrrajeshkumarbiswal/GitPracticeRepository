@@ -3,7 +3,7 @@ class Test{
 
         System.out.Println("Hi  Mr.Rajesh !");
         
-        System.out.Println("Hi  Rajesh !!")
+        System.out.Println("git branch created succesfully traying 1st commit");
 
     }
 }
